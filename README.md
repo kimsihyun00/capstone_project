@@ -4,5 +4,4 @@
 Oculus Integration,  
 Low Poly Park,  
 Simple City pack plain,  
-SteamVR Plugin,  
 Pigeon
